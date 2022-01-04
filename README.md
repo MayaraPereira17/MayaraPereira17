@@ -1,13 +1,12 @@
 ### Olá eu sou Mayara Pereira
 
 
-- 🌱 Eu sou estudante tecnica do curso de Desenvolvimento de Sistemas
+- 🌱Sou estudante tecnica do curso de Desenvolvimento de Sistemas
 
 
 <div align="center">
   <a href="https://github.com/MayaraPereira17/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MayaraPereira17&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayaraPereira17&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   
