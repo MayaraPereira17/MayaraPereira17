@@ -2,7 +2,9 @@
 
 
 - 🌱Sou estudante tecnica do curso de Desenvolvimento de Sistemas
-
+<p align="center">
+  <img width="460" heigth="300" src="MayaraPereira17/MayaraPereira17/Mayara Caroline (1).gif">
+  </p>
 
 <div align="center">
   <a href="https://github.com/MayaraPereira17/">
