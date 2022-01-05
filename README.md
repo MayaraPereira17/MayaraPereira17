@@ -1,11 +1,9 @@
 ### Olá eu sou Mayara Pereira
-
+![Mayara Caroline (1)](https://user-images.githubusercontent.com/79329230/148280201-be25719c-802b-4691-bbe9-9f008f6afa06.gif)
 
 - 🌱Sou estudante tecnica do curso de Desenvolvimento de Sistemas
-<p align="center">
-  <img width="460" heigth="300" src="![Mayara Caroline (1)](https://user-images.githubusercontent.com/79329230/148280201-be25719c-802b-4691-bbe9-9f008f6afa06.gif)
-">
-  </p>
+
+
 
 <div align="center">
   <a href="https://github.com/MayaraPereira17/">
