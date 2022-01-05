@@ -1,6 +1,5 @@
-### Olá eu sou Mayara Pereira
 
-![WhatsApp Image 2022-01-04 at 23 04 46](https://user-images.githubusercontent.com/79329230/148281925-fa4a15b0-f320-44a9-957f-074cb0539308.jpeg)
+![Mayara Caroline](https://user-images.githubusercontent.com/79329230/148284225-70e92980-3109-4e65-a882-2a5114690749.gif)
 
 
 - 🌱Sou estudante tecnica do curso de Desenvolvimento de Sistemas
