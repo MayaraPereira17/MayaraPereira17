@@ -1,6 +1,4 @@
-
 ![Mayara Caroline](https://user-images.githubusercontent.com/79329230/148284225-70e92980-3109-4e65-a882-2a5114690749.gif)
-
 
 - 🌱Sou estudante tecnica do curso de Desenvolvimento de Sistemas
 
@@ -27,7 +25,7 @@
   <a href="https://www.instagram.com/_maay126/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mayara-c-7a5b041b0?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2BWHtcsxgRBG6%2BmdsPMvFXw%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
- 
- 
 </div>
-
+<br>
+<i>“A arte desafia a tecnologia, e a tecnologia inspira a arte”. John Lasseter</i>
+ 
