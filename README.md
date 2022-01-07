@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/MayaraPereira17/">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=MayaraPereira17&show_icons=true&theme=synthwave"/>
+    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=MayaraPereira17&show_icons=true&theme=synthwave"/>
     <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayaraPereira17&layout=compact&langs_count=7&theme=synthwave"/></a>
 </div>
 
@@ -16,7 +16,7 @@
   <img align="center" alt="mayara-php" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img  align="center" alt="mayara-photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
   <img  align="center" alt="mayara-java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-    <img align="center" alt="mayara-mysql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="mayara-mysql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 </div>
   
   ##
