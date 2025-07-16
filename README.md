@@ -43,5 +43,9 @@
 <br>
 <div align="center" > 
 <i>“A arte desafia a tecnologia, e a tecnologia inspira a arte”. John Lasseter</i>
+
+</div>
+<div align="center" > 
+  <i>"Art challenges technology, and technology inspires art." — John Lasseter</i>
 </div>
  
