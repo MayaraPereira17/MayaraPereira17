@@ -1,4 +1,4 @@
-![Mayara Caroline](https://user-images.githubusercontent.com/79329230/148284225-70e92980-3109-4e65-a882-2a5114690749.gif)
+<!--![Mayara Caroline](https://user-images.githubusercontent.com/79329230/148284225-70e92980-3109-4e65-a882-2a5114690749.gif)-->
 
 - 🌱 técnica em  Desenvolvimento de Sistemas
 
